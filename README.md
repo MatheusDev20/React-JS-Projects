@@ -22,3 +22,9 @@ API externa https://api.exchangeratesapi.io e no conceitos de Hooks, dentro do R
 Techs: API, React-Hooks
 Link: https://conversor-moedas-reactjs.netlify.com/
 
+3- Real time chat - Chat de troca de mensagens em tempo real, a ideia do projeto foi explorar a alta perfomance da Stack Node + React
+quando se trata de trocar informações em real time.
+Techs: Socket IO, NodeJs, Express, React-Hooks, React-Router
+Link: https://realtimechatapp.netlify.com/login
+
+
