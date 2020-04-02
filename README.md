@@ -17,4 +17,8 @@ produtos detalhados e mais.
 Techs: React, State, CSS-GRId, Styled-Components, React-Router
 Link: https://react-teste-ecommerce.netlify.com/
 
-2 -
+2 - Currency Converter - Conversor de moedas simples, sem interface muito desenvolvida, a ideia do projeto foi focar no consumo de uma
+API externa https://api.exchangeratesapi.io e no conceitos de Hooks, dentro do React.
+Techs: API, React-Hooks
+Link: https://conversor-moedas-reactjs.netlify.com/
+
