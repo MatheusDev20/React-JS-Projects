@@ -3,7 +3,7 @@ import CurrencyRow from './currencyRow'
 import './App.css';
 
 function App() {
-  const BASE_URL = 'https://api.exchangeratesapi.io/latest'
+  const BASE_URL = 'https://api.exchangeratesapi.ilatesto/'
   const [currencyOptions, setCurrencyOptions] = useState([])
   const [fromCurrency, setFromCurrency] = useState([])
   const [toCurrency, setToCurrency] = useState([])
