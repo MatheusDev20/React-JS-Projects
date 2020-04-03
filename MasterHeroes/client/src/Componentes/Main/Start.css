@@ -1,0 +1,42 @@
+.wrapper{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    background-color: var(--mainRed);
+}
+.github-icon{
+    height: 32px;
+}
+.modal-content{
+        background-color: #d3d3d3;
+        margin: 15% auto; 
+        padding: 20px;
+        border: 1px solid #888;
+        width: 60%;
+}
+.rules-title{
+    font-family: 'Permanent Marker', sans-serif;
+    color: var(--mainBlue);
+    margin-left: 20%;
+    font-size: 40px;
+}
+.rules-image{
+    height: 100px;
+    width: 100px;
+}
+.rules{
+    list-style: decimal;
+    font-weight: bold;
+    color: var(--mainRed);
+    font-family: 'Roboto' , sans-serif;
+    font-size: 20px;
+    margin-left: 80px;
+}
+.results{
+    font-family: 'Permanent Marker', sans-serif;
+    color: var(--mainRed);
+    margin-left: 25%;
+    font-size: 30px;
+    margin-top: 25px;
+
+}

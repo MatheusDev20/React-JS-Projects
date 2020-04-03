@@ -1,0 +1,40 @@
+.card-wrapper{
+    margin-top: 50px;
+    padding: 10px;
+    border: 1px solid black;
+    height: 330px;
+    width: 90%;
+    background-color: #d3d3d3;
+    display: flex;
+    align-items: flex-start;
+}
+.card-stats{
+    margin-left: 48px;
+    display: flex;
+    flex-direction: column;
+}
+.stats{
+    margin-top: 5px;
+    color: var(--mainBlue);
+    font-family: 'Permanent Marker', sans-serif;
+    font-size: 20px;
+}
+.stats > span {
+    color: var(--mainRed)
+}
+.answers{
+    border: 3PX solid var(--mainRed);
+    margin-left: 5%;
+    height: 90%;
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 40px;
+}
+.answer-button{
+    background: var(--mainBlue);
+    width: 320px;
+    border: none;
+    height: 45px;
+}
