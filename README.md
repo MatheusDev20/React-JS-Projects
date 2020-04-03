@@ -28,6 +28,10 @@ quando se trata de trocar informações em real time.
 **Techs**: SocketIO, NodeJS, React-Hooks, React-Router, CSS-Flexbox  
 Link: https://realtimechatapp.netlify.com/login
 
+4- Master Heroes - Jogo de adivinhação interativo, consumindo a API de super heróis https://akabab.github.io/superhero-api/api/ implementado inteiramente em React. A ideia do game é apresentar cards onde vc possa adivinhar o nome dos super heróis mostrados.
+**Techs**: React,Hooks,Axios,Api,Styled-components, Bootstrap.  
+Link: https://master-heroes-game.netlify.com/
+
 
 
 
