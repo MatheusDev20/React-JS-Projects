@@ -1,4 +1,5 @@
-# React-JS
+# React-JS  
+![](https://miro.medium.com/max/3200/1*OvYjQmX9G7QXZkMYQE-wpQ.jpeg)
 Olá,
 Bem vindo ao meu repositório de projetos React JS, aqui você encontra todos os projetos que desenvolvi durante minha trajetória
 de aprendizado da tecnologia
