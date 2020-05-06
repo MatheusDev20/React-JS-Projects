@@ -16,7 +16,8 @@ Projetos
 1 - RR Materiais - E-Commerce fictício de uma loja de materiais de construção, com as funções de adicionar produtos ao carrinho, ver
 produtos detalhados e mais  
 **Techs**:   React, State, CSS-GRID, Styled-Components, React-Router  
-Link: https://react-teste-ecommerce.netlify.com/
+Link: https://react-teste-ecommerce.netlify.com/  
+![]()
 
 
 2 - Currency Converter - Conversor de moedas simples, sem interface muito desenvolvida, a ideia do projeto foi focar no consumo de uma
@@ -30,7 +31,7 @@ quando se trata de trocar informações em real time.
 Link: https://realtimechatapp.netlify.com/login
 
 4- Master Heroes - Jogo de adivinhação interativo, consumindo a API de super heróis https://akabab.github.io/superhero-api/api/ implementado inteiramente em React. A ideia do game é apresentar cards onde vc possa adivinhar o nome dos super heróis mostrados.
-**Techs**: React,Hooks,Axios,Api,Styled-components, Bootstrap.  
+**Techs**: React,Hooks,Axios, SuperHero-Api,Styled-components, Bootstrap.  
 Link: https://master-heroes-game.netlify.com/
 
 
