@@ -1,0 +1,58 @@
+.sign-form-wrapper {
+    display: flex;
+    flex-direction: column;
+    background-color: #fff;
+    height: 490px;
+    width: 490px;
+    border-radius: 50px;
+}
+.sign-title {
+    display: flex;
+    width: 100%;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+}
+.sign-title > h1{
+    font-size: 2.1rem;
+    margin-right: 20px;
+}
+.plus-icon {
+  color:#7F63FF;
+  font-size:25px;
+}
+.form {
+    margin-top: 20px;
+}
+.sign-input-div {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 40px;
+}
+.sign-up-input{
+    width: 80%;
+    border: none;
+    outline: none;
+    border-bottom: 2px solid #7F63FF;
+    color: #7F63FF;
+}
+.sign-btn {
+    background-color: #6C63FF;
+    padding-left: 0;
+    font-weight: bold;
+    color: white;
+    text-transform: uppercase;
+    height: 30px;
+    border-radius: 30px;
+    width: 30%;
+    border: none;
+    outline: none;
+    margin-top: 80px;
+    margin-left: 32%;
+}
+.sign-btn:hover {
+    background-color: #8A63FF;
+    transition: background-color,
+    1s;
+    cursor: pointer;
+}
