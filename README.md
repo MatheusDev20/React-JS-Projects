@@ -28,7 +28,7 @@ Link: https://conversor-moedas-reactjs.netlify.com/
 3- Real time chat - Chat de troca de mensagens em tempo real, a ideia do projeto foi explorar a alta perfomance da Stack Node + React
 quando se trata de trocar informações em real time.  
 **Techs**: SocketIO, NodeJS, React-Hooks, React-Router, CSS-Flexbox  
-Link: https://realtimechatapp.netlify.com/login
+Link: https://realtimechatapp.netlify.com
 
 4- Master Heroes - Jogo de adivinhação interativo, consumindo a API de super heróis https://akabab.github.io/superhero-api/api/ implementado inteiramente em React. A ideia do game é apresentar cards onde vc possa adivinhar o nome dos super heróis mostrados.
 **Techs**: React,Hooks,Axios, SuperHero-Api,Styled-components, Bootstrap.  
