@@ -43,6 +43,12 @@ Link: https://react-login-interface.netlify.app
 **Techs**: React, Styled-Components, Grid, Flexbox  
 Live demo Link: https://discord-ui-layout-clone.netlify.app/
 
+7- League-Login-Interface - Clone do Layout da Tela de Login do Game League of Legends
+
+**Techs**: React, Styled-Components,Flexbox,CSS, Typescipt  
+
+Live demo Link: https://league-login-interface.netlify.app/
+
 
 
 
