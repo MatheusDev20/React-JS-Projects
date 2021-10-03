@@ -25,7 +25,6 @@ export const Container = styled.header`
   }
 `;
 
-
 export const Navigation = styled.nav`
   display: flex;
   display: grid;
@@ -63,3 +62,4 @@ button:hover {
   background-color: #ff1493;
 }
 `;
+
