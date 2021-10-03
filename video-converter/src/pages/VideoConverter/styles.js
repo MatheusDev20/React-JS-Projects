@@ -18,19 +18,13 @@ export const UploadStep = styled.div`
   align-items: center;
   flex-direction: column;
   justify-content: center;
-
   .options {
     display: flex;
     align-items: center;
     margin-left: 150px;
     width: 70%;
-
   }
-
 `;
-export const PerformAction = styled.div`
-`;
-
 export const UploadButton = styled.button`
   width: 70%;
   border: none;
@@ -40,7 +34,6 @@ export const UploadButton = styled.button`
   font-size: 1rem;
   cursor: pointer;
   text-align: center;
-
   input {
     display: none;
   }
@@ -62,16 +55,48 @@ export const CancelButton = styled.button`
 `;
 export const SelectFormat = styled.div`
   height: 20%;
-  border: 1px solid red;
   display:flex;
-  justify-content: center;
+  justify-content: space-evenly;
   align-items: center;
 `;
+export const Select = styled.select`
+  border: none;
+  width: 200px;
+  background-color: #04AA6D;
+`;
 
+export const PerformAction = styled.div`
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 30%;
+  flex-direction: column;
 
-
-// export const Select = styled.select`
-//   border: none;
-//   width: 200px;
-//   background-color: #04AA6D;
-// `;
+  a {
+    width: 40%;
+  }
+  `;
+export const PerformButton = styled.div`
+  width: 40%;
+  border: none;
+  background-color: #04AA6D;
+  color: white;
+  padding: 14px 28px;
+  font-size: 1rem;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  margin-bottom: 15px;
+`;
+export const Download = styled.button`
+  width: 100%;
+  border: none;
+  border-radius: 5px;
+  background-color: #ff3232;
+  color: white;
+  padding: 14px 28px;
+  font-size: 1rem;
+  cursor: pointer;
+  text-align: center;
+  margin-bottom: 15px;
+`;
