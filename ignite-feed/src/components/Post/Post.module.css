@@ -1,0 +1,94 @@
+.post {
+  background: var(--gray-800);
+  border-radius: 8px;
+  padding: 2.5rem;
+}
+
+.post + .post {
+  margin-top: 2rem;
+}
+
+.content {
+  line-height: 1.6;
+  color: var(--gray-300);
+  margin-top: 1.5rem;
+}
+
+.content p {
+  margin-top: 1.5rem;
+}
+
+.content a {
+  font-weight: bold;
+  color: var(--green-500);
+  text-decoration: none;
+}
+.content a:hover {
+  color: var(--green-300);
+}
+.post > header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.post > header time {
+  font-size: 0.875rem;
+  color: var(--gray-400);
+}
+.author {
+  display: flex;
+  align-items: center; 
+  gap: 1rem;
+}
+.authorInfo strong {
+  display: block;
+  line-height: 1.6;
+  color: var(--gray-100);
+}
+.authorInfo span {
+  display: block;
+  line-height: 1.6;
+  font-size: 0.875rem;
+  color: var(--gray-400);
+}
+.avatar {
+  width: calc(3rem + 12px);
+  width: 3rem;
+  height: 3rem;
+  border-radius: 8px;
+  border: 4px solid var(--gray-800);
+  outline: 2px solid var(--green-500);
+}
+
+.comentForm {
+  width: 100%;
+  margin-top: 1.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--gray-600);
+}
+.comentForm > strong {
+  line-height: 1.6;
+  color: var(--gray-100);
+}
+.comentForm textarea {
+  width: 100%;
+  background: var(--gray-900);
+  resize: none;
+  border: 0;
+  outline: 0;
+  height: 6rem;
+  padding: 1rem;
+  border-radius: 8px;
+  color: var(--gray-100);
+  line-height: 1.4;
+  margin-top: 1rem;
+}
+.comentForm > button[type=submit] {
+  padding: 1rem 1.5rem;
+  margin-top: 1rem;
+  border-radius: 8px;
+  border: 0;
+  background: var(--green-500);
+  font-weight: bold;
+  cursor: pointer;
+}
