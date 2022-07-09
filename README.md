@@ -20,30 +20,25 @@ Link: https://react-teste-ecommerce.netlify.com/
 ![]()
 
 
-2 - Currency Converter - Conversor de moedas simples, sem interface muito desenvolvida, a ideia do projeto foi focar no consumo de uma
-API externa https://api.exchangeratesapi.io e no conceitos de Hooks, dentro do React.  
-**Techs**: API, ReactHooks
-Link: https://conversor-moedas-reactjs.netlify.com/
-
-3- Real time chat - Chat de troca de mensagens em tempo real, a ideia do projeto foi explorar a alta perfomance da Stack Node + React
+2- Real time chat - Chat de troca de mensagens em tempo real, a ideia do projeto foi explorar a alta perfomance da Stack Node + React
 quando se trata de trocar informações em real time.  
 **Techs**: SocketIO, NodeJS, React-Hooks, React-Router, CSS-Flexbox  
 Link: https://realtimechatapp.netlify.com
 
-4- Master Heroes - Jogo de adivinhação interativo, consumindo a API de super heróis https://akabab.github.io/superhero-api/api/ implementado inteiramente em React. A ideia do game é apresentar cards onde vc possa adivinhar o nome dos super heróis mostrados.
+3- Master Heroes - Jogo de adivinhação interativo, consumindo a API de super heróis https://akabab.github.io/superhero-api/api/ implementado inteiramente em React. A ideia do game é apresentar cards onde vc possa adivinhar o nome dos super heróis mostrados.
 **Techs**: React,Hooks,Axios, SuperHero-Api,Styled-components, Bootstrap.  
 Link: https://master-heroes-game.netlify.com/  
 
-5- Login-Interface - Tela de Login feita para consumir uma API de CRUD e autenticação que se encontra nesse Repositório
+4- Login-Interface - Tela de Login feita para consumir uma API de CRUD e autenticação que se encontra nesse Repositório
 (https://github.com/MatheusDev20/Node-JS)
 **Techs**: React,Axios,Hooks,React-Router-Dom, HTML,CSS  
 Link: https://react-login-interface.netlify.app  
 
-6- Discord UI Cline - Clone da Interface do Aplicativo de comunicação Discord.  
+5- Discord UI Cline - Clone da Interface do Aplicativo de comunicação Discord.  
 **Techs**: React, Styled-Components, Grid, Flexbox  
 Live demo Link: https://discord-ui-layout-clone.netlify.app/
 
-7- League-Login-Interface - Clone do Layout da Tela de Login do Game League of Legends
+6- League-Login-Interface - Clone do Layout da Tela de Login do Game League of Legends
 
 **Techs**: React, Styled-Components,Flexbox,CSS, Typescipt  
 
